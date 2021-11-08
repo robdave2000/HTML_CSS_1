@@ -5,24 +5,19 @@
 
 html 
 {
-    background-color: red;
-}
-
-button
-{
-    color: red;
+    background-color: rgb(192, 189, 189);
 }
 
 h1
 {
     text-align: center;
-    background-color: yellow;
+    background-color: rgb(32, 184, 32);
 }
 
 p
 {
-    width: 500px;
-    border: green dashed 2px;
+    width: 50%;
+    border: crimson solid 3px;
 }
 
 img
