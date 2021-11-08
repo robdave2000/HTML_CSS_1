@@ -25,9 +25,3 @@ img
     width: 50vw;
     margin-left: 100px;
 }
-
-ol > li
-{
-    font-size: 25px;
-    margin: 20px;
-}
